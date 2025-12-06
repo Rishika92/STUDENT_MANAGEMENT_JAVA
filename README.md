@@ -2,28 +2,20 @@
 
 A simple console-based Student Management System built using Core Java, JDBC, and MySQL.
 This project allows you to perform CRUD operations on student records.
-Features
-✅ Add Student
 
-Add a new student with roll number, name, department, and marks.
+Features: 
 
-✅ View All Students
+1. Add Student: Add a new student with roll number, name, department, and marks.
 
-Displays all student records stored in the database.
+2. View All Students: Displays all student records stored in the database.
 
-✅ Search Student
+3. Search Student:  Search a student by roll number.
 
-Search a student by roll number.
+4. Update Marks: Update the marks of an existing student.
 
-✅ Update Marks
+5. Delete Student: Remove a student from the database.
 
-Update the marks of an existing student.
-
-✅ Delete Student
-
-Remove a student from the database.
-
-Technologies Used
+Technologies Used: 
 
 Java (JDK 17+ or 21+)
 
